@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Analysis code: Early levetiracetam prophylaxis and delirium after acute brain injury — triangulating clinical, genetic and network evidence"
+authors:
+  - family-names: Salman
+    given-names: Zane G.
+  - family-names: Zeitouny
+    given-names: Ryan
+  - family-names: Salman
+    given-names: Samer G.
+  - family-names: Tripuraneni
+    given-names: Ajay
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-04"
+repository-code: "https://github.com/ZaneSalman/levetiracetam-delirium-triangulation"

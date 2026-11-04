@@ -1,0 +1,27 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+credentials.json
+client_secret*.json
+*service-account*.json
+*service_account*.json
+*.pem
+*.key
+
+# Restricted data and generated artifacts
+data/
+outputs/
+results/
+lev_genomics/
+LEV_delirium_genomics/
+
+# Operating-system files
+.DS_Store
