@@ -72,7 +72,7 @@ Access to and use of each external dataset remain subject to the provider's lice
 
 * The SMR and HEIDI tests are reimplemented in Python following Zhu et al., *Nat Genet* 2016, because the SMR binary and the BrainMeta eQTL resource could not be obtained when the analysis was run. Results may differ slightly from the reference implementation.
 * Some cells were added after initial results, in response to them (eICU replication, overlap weighting, neurosurgery adjustment, dose–response, negative controls, SMR/HEIDI, positive control). The article reports which analyses were prespecified and which were post hoc.
-* Generative AI (Claude, Anthropic) helped write the analysis code. The authors reviewed all code and output.
+
 
 ## License
 
